@@ -1,0 +1,566 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output/>
+    <content url="file://$MODULE_DIR$/">
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false"/>
+      <sourceFolder url="file://$MODULE_DIR$/src/main/webapp" isTestSource="false"/>
+      <sourceFolder url="file://$MODULE_DIR$/src/main/resources" isTestSource="false"/>
+      <sourceFolder url="file://$MODULE_DIR$/src/main/resources" isTestSource="true"/>
+      <excludeFolder url="file://$MODULE_DIR$/build"/>
+      <excludeFolder url="file://$MODULE_DIR$/.gradle"/>
+    </content>
+    <orderEntry type="inheritedJdk"/>
+    <orderEntry type="sourceFolder" forTests="false"/>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/chris/.gradle/caches/modules-2/files-2.1/org.glassfish.jersey.bundles/jaxrs-ri/2.25/a26ea3557f4322f17113c871b06c9fc8344a40c5/jaxrs-ri-2.25.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/chris/.gradle/caches/modules-2/files-2.1/org.glassfish.jersey.bundles/jaxrs-ri/2.25/42a1ef217dad64e3263f552f23bf1744505ebcf9/jaxrs-ri-2.25-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/chris/.gradle/caches/modules-2/files-2.1/org.jboss.spec/jboss-javaee-all-7.0/1.0.2.Final/b30d15eac30c986aa845d356dc96e309fde06ec2/jboss-javaee-all-7.0-1.0.2.Final.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/chris/.gradle/caches/modules-2/files-2.1/org.jboss.spec/jboss-javaee-all-7.0/1.0.2.Final/fef9f4374553780d013582abdc7fee19ae02209e/jboss-javaee-all-7.0-1.0.2.Final-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/chris/.gradle/caches/modules-2/files-2.1/org.glassfish.jersey.core/jersey-common/2.25/b38e1a1af6ad75dd9037a767764b0d41801f1c9f/jersey-common-2.25.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/chris/.gradle/caches/modules-2/files-2.1/org.glassfish.jersey.core/jersey-common/2.25/c08cce31902b583500b625df4e38da9132689d68/jersey-common-2.25-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/chris/.gradle/caches/modules-2/files-2.1/org.glassfish.jersey.media/jersey-media-jaxb/2.25/9aa3eeba90dce24f04bf27cd1a4e0d378ec697f/jersey-media-jaxb-2.25.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/chris/.gradle/caches/modules-2/files-2.1/org.glassfish.jersey.media/jersey-media-jaxb/2.25/85726ab08e83483207f9f86405720ecf07e25441/jersey-media-jaxb-2.25-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/chris/.gradle/caches/modules-2/files-2.1/org.glassfish.jersey.core/jersey-client/2.25/416a00562f25d7efdba015e5c21876d19163edd0/jersey-client-2.25.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/chris/.gradle/caches/modules-2/files-2.1/org.glassfish.jersey.core/jersey-client/2.25/f6b20fa376cea66c84be582a1b71cf6dff971c9e/jersey-client-2.25-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/chris/.gradle/caches/modules-2/files-2.1/org.glassfish.jersey.core/jersey-server/2.25/874ca16134872781b8c6a2adfe3bb2af80bc378/jersey-server-2.25.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/chris/.gradle/caches/modules-2/files-2.1/org.glassfish.jersey.core/jersey-server/2.25/5c52b0e90c204715c2511c83e2ea4ad28613ef6f/jersey-server-2.25-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/chris/.gradle/caches/modules-2/files-2.1/org.glassfish.jersey.containers/jersey-container-servlet-core/2.25/42708aca357418bb51528b20181cdfe0241c3ecb/jersey-container-servlet-core-2.25.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/chris/.gradle/caches/modules-2/files-2.1/org.glassfish.jersey.containers/jersey-container-servlet-core/2.25/6d204099ff944d1b28984e9a55b804e1eb834b42/jersey-container-servlet-core-2.25-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/chris/.gradle/caches/modules-2/files-2.1/org.glassfish.jersey.containers/jersey-container-servlet/2.25/a3162855a184793c3c934ed9ee0170ebeb82cc9/jersey-container-servlet-2.25.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/chris/.gradle/caches/modules-2/files-2.1/org.glassfish.jersey.containers/jersey-container-servlet/2.25/73424cd03214abcaa1cd7ef892b7f9da63f6cb5/jersey-container-servlet-2.25-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/chris/.gradle/caches/modules-2/files-2.1/javax.activation/activation/1.1.1/485de3a253e23f645037828c07f1d7f1af40763a/activation-1.1.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/chris/.gradle/caches/modules-2/files-2.1/javax.activation/activation/1.1.1/159e45688875fdabff19c9ceb7335aefe4df8339/activation-1.1.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/chris/.gradle/caches/modules-2/files-2.1/javax.enterprise/cdi-api/1.2/53bba91dc3968adf411e076df020cf207283d7dc/cdi-api-1.2.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/chris/.gradle/caches/modules-2/files-2.1/javax.enterprise/cdi-api/1.2/4cab20de4e3b6796a814e9173d165ba2a177d001/cdi-api-1.2-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/chris/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/chris/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/a00123f261762a7c5e0ec916a2c7c8298d29c400/javax.inject-1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/chris/.gradle/caches/modules-2/files-2.1/javax.jws/jsr181-api/1.0-MR1/401cc1d0e5f0d8f4d0532a54928ceaa27ec21258/jsr181-api-1.0-MR1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/chris/.gradle/caches/modules-2/files-2.1/javax.jws/jsr181-api/1.0-MR1/91949f9602ca47ff97f3b269076335a615e0d5e3/jsr181-api-1.0-MR1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/chris/.gradle/caches/modules-2/files-2.1/com.sun.mail/javax.mail/1.5.1/9724dd44f1abbba99c9858aa05fc91d53f59e7a5/javax.mail-1.5.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/chris/.gradle/caches/modules-2/files-2.1/com.sun.mail/javax.mail/1.5.1/f12f1c6664dbc53cdc2dbffc3a9b7436c599f2d7/javax.mail-1.5.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/chris/.gradle/caches/modules-2/files-2.1/javax.validation/validation-api/1.1.0.Final/8613ae82954779d518631e05daa73a6a954817d5/validation-api-1.1.0.Final.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/chris/.gradle/caches/modules-2/files-2.1/javax.validation/validation-api/1.1.0.Final/7d49b53caed9bd81d172807c3e096d24f3c57090/validation-api-1.1.0.Final-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/chris/.gradle/caches/modules-2/files-2.1/org.hibernate.javax.persistence/hibernate-jpa-2.1-api/1.0.0.Final/5e731d961297e5a07290bfaf3db1fbc8bbbf405a/hibernate-jpa-2.1-api-1.0.0.Final.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/chris/.gradle/caches/modules-2/files-2.1/org.hibernate.javax.persistence/hibernate-jpa-2.1-api/1.0.0.Final/33fbaa7276b774ef0925f541640f6ff23fbc62dc/hibernate-jpa-2.1-api-1.0.0.Final-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/chris/.gradle/caches/modules-2/files-2.1/org.jboss.spec.javax.annotation/jboss-annotations-api_1.2_spec/1.0.0.Final/6d7ff02a645227876ed550900d32d618b8f0d556/jboss-annotations-api_1.2_spec-1.0.0.Final.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/chris/.gradle/caches/modules-2/files-2.1/org.jboss.spec.javax.annotation/jboss-annotations-api_1.2_spec/1.0.0.Final/40f0a92b5fde6c76640f4586ad64f630eb481ffa/jboss-annotations-api_1.2_spec-1.0.0.Final-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/chris/.gradle/caches/modules-2/files-2.1/org.jboss.spec.javax.batch/jboss-batch-api_1.0_spec/1.0.0.Final/7905af7bb3f1f31109cb4ace940f2ca4fa9ca443/jboss-batch-api_1.0_spec-1.0.0.Final.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/chris/.gradle/caches/modules-2/files-2.1/org.jboss.spec.javax.batch/jboss-batch-api_1.0_spec/1.0.0.Final/e27c2487c7d2552a4523b4cb98de216717990afd/jboss-batch-api_1.0_spec-1.0.0.Final-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/chris/.gradle/caches/modules-2/files-2.1/org.jboss.spec.javax.ejb/jboss-ejb-api_3.2_spec/1.0.0.Final/abcaf7a4049ade1b9804e0273019fa538ac6988e/jboss-ejb-api_3.2_spec-1.0.0.Final.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/chris/.gradle/caches/modules-2/files-2.1/org.jboss.spec.javax.ejb/jboss-ejb-api_3.2_spec/1.0.0.Final/88ad07f0ad0c9396ca37e2df9182c76942da4d3/jboss-ejb-api_3.2_spec-1.0.0.Final-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/chris/.gradle/caches/modules-2/files-2.1/org.jboss.spec.javax.el/jboss-el-api_3.0_spec/1.0.4.Final/463ee08876e00f7c2e4f8692a2411d002babbc2d/jboss-el-api_3.0_spec-1.0.4.Final.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/chris/.gradle/caches/modules-2/files-2.1/org.jboss.spec.javax.el/jboss-el-api_3.0_spec/1.0.4.Final/ae55ed3124dbb748d458cf439b621e321c6b423b/jboss-el-api_3.0_spec-1.0.4.Final-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/chris/.gradle/caches/modules-2/files-2.1/org.jboss.spec.javax.enterprise.concurrent/jboss-concurrency-api_1.0_spec/1.0.0.Final/67dbe20fc656d938dc0665661fe3ae60b52c4b4a/jboss-concurrency-api_1.0_spec-1.0.0.Final.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/chris/.gradle/caches/modules-2/files-2.1/org.jboss.spec.javax.enterprise.concurrent/jboss-concurrency-api_1.0_spec/1.0.0.Final/886b803fd8860ff1a8f4cb158d61f3dc00b1bf09/jboss-concurrency-api_1.0_spec-1.0.0.Final-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/chris/.gradle/caches/modules-2/files-2.1/org.jboss.spec.javax.faces/jboss-jsf-api_2.2_spec/2.2.8/9c2426507fa72f14d1e8ed9f3aa586fa8c2bd9b2/jboss-jsf-api_2.2_spec-2.2.8.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/chris/.gradle/caches/modules-2/files-2.1/org.jboss.spec.javax.faces/jboss-jsf-api_2.2_spec/2.2.8/fbe7d50ffc22e7851fe36709b9364df2c401e28f/jboss-jsf-api_2.2_spec-2.2.8-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/chris/.gradle/caches/modules-2/files-2.1/org.jboss.spec.javax.interceptor/jboss-interceptors-api_1.2_spec/1.0.0.Final/53cf6e9ea22b712e2d2b108cdbef80def52d4f9d/jboss-interceptors-api_1.2_spec-1.0.0.Final.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/chris/.gradle/caches/modules-2/files-2.1/org.jboss.spec.javax.interceptor/jboss-interceptors-api_1.2_spec/1.0.0.Final/1c1d941c73fa84eb27ec8e335562f47ae80b4c2b/jboss-interceptors-api_1.2_spec-1.0.0.Final-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/chris/.gradle/caches/modules-2/files-2.1/org.jboss.spec.javax.json/jboss-json-api_1.0_spec/1.0.0.Final/5c0434957d42346e38f798eb8ba745e56b84f8d4/jboss-json-api_1.0_spec-1.0.0.Final.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/chris/.gradle/caches/modules-2/files-2.1/org.jboss.spec.javax.json/jboss-json-api_1.0_spec/1.0.0.Final/73bc871b0b02d3c5f4b450c80dd2a1ef156eae8d/jboss-json-api_1.0_spec-1.0.0.Final-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/chris/.gradle/caches/modules-2/files-2.1/org.jboss.spec.javax.management.j2ee/jboss-j2eemgmt-api_1.1_spec/1.0.1.Final/35c0f112888c3ed8e6f07847d0dacb53d38f9ad1/jboss-j2eemgmt-api_1.1_spec-1.0.1.Final.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/chris/.gradle/caches/modules-2/files-2.1/org.jboss.spec.javax.management.j2ee/jboss-j2eemgmt-api_1.1_spec/1.0.1.Final/6265343db148d2513d0b743b28c00c1daec1209d/jboss-j2eemgmt-api_1.1_spec-1.0.1.Final-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/chris/.gradle/caches/modules-2/files-2.1/org.jboss.spec.javax.resource/jboss-connector-api_1.7_spec/1.0.0.Final/2113100f3aac47f62a948e4a00a2ddfa6497fb62/jboss-connector-api_1.7_spec-1.0.0.Final.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/chris/.gradle/caches/modules-2/files-2.1/org.jboss.spec.javax.resource/jboss-connector-api_1.7_spec/1.0.0.Final/13fc67d179f88f698f22208152c98e406f2f85c9/jboss-connector-api_1.7_spec-1.0.0.Final-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/chris/.gradle/caches/modules-2/files-2.1/org.jboss.spec.javax.rmi/jboss-rmi-api_1.0_spec/1.0.4.Final/f7dc3adaae5eee613f2e5e1a2f9978d96cf5c22f/jboss-rmi-api_1.0_spec-1.0.4.Final.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/chris/.gradle/caches/modules-2/files-2.1/org.jboss.spec.javax.rmi/jboss-rmi-api_1.0_spec/1.0.4.Final/6e1ad509e0e8d59eb583208424ef53c5e3f8d2b9/jboss-rmi-api_1.0_spec-1.0.4.Final-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/chris/.gradle/caches/modules-2/files-2.1/org.jboss.spec.javax.security.jacc/jboss-jacc-api_1.5_spec/1.0.0.Final/760b1fad9b750e099142cccd465d68fc422f8713/jboss-jacc-api_1.5_spec-1.0.0.Final.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/chris/.gradle/caches/modules-2/files-2.1/org.jboss.spec.javax.security.jacc/jboss-jacc-api_1.5_spec/1.0.0.Final/3a02078b4d1f90c39a69946d935556358615a579/jboss-jacc-api_1.5_spec-1.0.0.Final-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/chris/.gradle/caches/modules-2/files-2.1/org.jboss.spec.javax.security.auth.message/jboss-jaspi-api_1.1_spec/1.0.0.Final/a6c6b9bbb21f0d2cdb4230d0314912b53f07ec03/jboss-jaspi-api_1.1_spec-1.0.0.Final.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/chris/.gradle/caches/modules-2/files-2.1/org.jboss.spec.javax.security.auth.message/jboss-jaspi-api_1.1_spec/1.0.0.Final/95ee92eb7771c62aff6eed00f2e44c31bf68bdc8/jboss-jaspi-api_1.1_spec-1.0.0.Final-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/chris/.gradle/caches/modules-2/files-2.1/org.jboss.spec.javax.jms/jboss-jms-api_2.0_spec/1.0.0.Final/1a5d61a9a92e509b385477bc6fc3cad9e34f5ebc/jboss-jms-api_2.0_spec-1.0.0.Final.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/chris/.gradle/caches/modules-2/files-2.1/org.jboss.spec.javax.jms/jboss-jms-api_2.0_spec/1.0.0.Final/df444829cf61cb40f5d5185128a100d775026765/jboss-jms-api_2.0_spec-1.0.0.Final-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/chris/.gradle/caches/modules-2/files-2.1/org.jboss.spec.javax.servlet/jboss-servlet-api_3.1_spec/1.0.0.Final/f87e23319ee434bca087c339ce456916a6ade08b/jboss-servlet-api_3.1_spec-1.0.0.Final.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/chris/.gradle/caches/modules-2/files-2.1/org.jboss.spec.javax.servlet/jboss-servlet-api_3.1_spec/1.0.0.Final/dd7000f6cdf0b46e103e829de739fb218dd1907c/jboss-servlet-api_3.1_spec-1.0.0.Final-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/chris/.gradle/caches/modules-2/files-2.1/org.jboss.spec.javax.servlet.jsp/jboss-jsp-api_2.3_spec/1.0.1.Final/f2d9bede4a48cd8ed1bd64d7d2fc95069a2ff648/jboss-jsp-api_2.3_spec-1.0.1.Final.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/chris/.gradle/caches/modules-2/files-2.1/org.jboss.spec.javax.servlet.jsp/jboss-jsp-api_2.3_spec/1.0.1.Final/f0c29bd521643f6dbba431a7afb558acac429895/jboss-jsp-api_2.3_spec-1.0.1.Final-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/chris/.gradle/caches/modules-2/files-2.1/org.jboss.spec.javax.servlet.jstl/jboss-jstl-api_1.2_spec/1.1.2.Final/ffc5ae2ac15d2dd52e30effe54a70c37fb895d0a/jboss-jstl-api_1.2_spec-1.1.2.Final.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/chris/.gradle/caches/modules-2/files-2.1/org.jboss.spec.javax.servlet.jstl/jboss-jstl-api_1.2_spec/1.1.2.Final/383466237ad54dba89ab95f3875e673d0db7c0f3/jboss-jstl-api_1.2_spec-1.1.2.Final-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/chris/.gradle/caches/modules-2/files-2.1/org.jboss.spec.javax.transaction/jboss-transaction-api_1.2_spec/1.0.0.Final/1f9fef7a9fcbb41cc390fc370a291cf30729e094/jboss-transaction-api_1.2_spec-1.0.0.Final.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/chris/.gradle/caches/modules-2/files-2.1/org.jboss.spec.javax.transaction/jboss-transaction-api_1.2_spec/1.0.0.Final/873910090351ef6339d2c6c231072edbd14f3a13/jboss-transaction-api_1.2_spec-1.0.0.Final-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/chris/.gradle/caches/modules-2/files-2.1/org.jboss.resteasy/jaxrs-api/3.0.10.Final/a4b66b0d60a81d3e69a933ce652a2cb49532967c/jaxrs-api-3.0.10.Final.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/chris/.gradle/caches/modules-2/files-2.1/org.jboss.resteasy/jaxrs-api/3.0.10.Final/8761e0a1fb2f48b327b9d9b63fb4e14fdf576dd4/jaxrs-api-3.0.10.Final-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/chris/.gradle/caches/modules-2/files-2.1/org.jboss.spec.javax.websocket/jboss-websocket-api_1.1_spec/1.1.0.Final/a89cc6c8f15c06aed6fe81482e168248ad7c76d3/jboss-websocket-api_1.1_spec-1.1.0.Final.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/chris/.gradle/caches/modules-2/files-2.1/org.jboss.spec.javax.websocket/jboss-websocket-api_1.1_spec/1.1.0.Final/85ad5deef184b209c26b27e8b9d74aa6968866aa/jboss-websocket-api_1.1_spec-1.1.0.Final-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/chris/.gradle/caches/modules-2/files-2.1/org.jboss.spec.javax.xml.bind/jboss-jaxb-api_2.2_spec/1.0.4.Final/8d4b15feb712e680518d34587a446c680bc053f1/jboss-jaxb-api_2.2_spec-1.0.4.Final.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/chris/.gradle/caches/modules-2/files-2.1/org.jboss.spec.javax.xml.bind/jboss-jaxb-api_2.2_spec/1.0.4.Final/9e35530542cf9ac30559c20fc340864a436531e6/jboss-jaxb-api_2.2_spec-1.0.4.Final-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/chris/.gradle/caches/modules-2/files-2.1/org.jboss.spec.javax.xml.soap/jboss-saaj-api_1.3_spec/1.0.3.Final/288f164cfe86ab6d497e9551e219b4bd2aa0dec2/jboss-saaj-api_1.3_spec-1.0.3.Final.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/chris/.gradle/caches/modules-2/files-2.1/org.jboss.spec.javax.xml.soap/jboss-saaj-api_1.3_spec/1.0.3.Final/77f62d855287a72065a9e47a91a953c522cd30e2/jboss-saaj-api_1.3_spec-1.0.3.Final-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/chris/.gradle/caches/modules-2/files-2.1/org.jboss.spec.javax.xml.ws/jboss-jaxws-api_2.2_spec/2.0.2.Final/1d72b9108f4d93a168b8e3d377c874ee35cd28d2/jboss-jaxws-api_2.2_spec-2.0.2.Final.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/chris/.gradle/caches/modules-2/files-2.1/org.jboss.spec.javax.xml.ws/jboss-jaxws-api_2.2_spec/2.0.2.Final/c306489e239264391d1e633b670b01c3fb22f419/jboss-jaxws-api_2.2_spec-2.0.2.Final-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/chris/.gradle/caches/modules-2/files-2.1/javax.ws.rs/javax.ws.rs-api/2.0.1/104e9c2b5583cfcfeac0402316221648d6d8ea6b/javax.ws.rs-api-2.0.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/chris/.gradle/caches/modules-2/files-2.1/javax.ws.rs/javax.ws.rs-api/2.0.1/a20db7429fd8dfff74335ec867472b71c345049b/javax.ws.rs-api-2.0.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/chris/.gradle/caches/modules-2/files-2.1/javax.annotation/javax.annotation-api/1.2/479c1e06db31c432330183f5cae684163f186146/javax.annotation-api-1.2.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/chris/.gradle/caches/modules-2/files-2.1/javax.annotation/javax.annotation-api/1.2/ad18a02db08eaee697f812e333f692fc51129e4a/javax.annotation-api-1.2-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/chris/.gradle/caches/modules-2/files-2.1/org.glassfish.jersey.bundles.repackaged/jersey-guava/2.25/4439bddb870b210e40ca2e953813930be424dc0c/jersey-guava-2.25.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/chris/.gradle/caches/modules-2/files-2.1/org.glassfish.jersey.bundles.repackaged/jersey-guava/2.25/e2e4149532ab860d7dd771c505b01a6a7513df67/jersey-guava-2.25-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/chris/.gradle/caches/modules-2/files-2.1/org.glassfish.hk2/hk2-api/2.5.0-b30/5c6688a6bafcd2098bef4ca45226d5355b816647/hk2-api-2.5.0-b30.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/chris/.gradle/caches/modules-2/files-2.1/org.glassfish.hk2/hk2-api/2.5.0-b30/70098ddd6115099799bfee7de912aecb7e21561b/hk2-api-2.5.0-b30-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/chris/.gradle/caches/modules-2/files-2.1/org.glassfish.hk2.external/javax.inject/2.5.0-b30/54b36144fd2fb684f9cee73d96060bb82e4d363/javax.inject-2.5.0-b30.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/chris/.gradle/caches/modules-2/files-2.1/org.glassfish.hk2.external/javax.inject/2.5.0-b30/b1aa0171dc465b29b36701d462118067cca29f7f/javax.inject-2.5.0-b30-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/chris/.gradle/caches/modules-2/files-2.1/org.glassfish.hk2/hk2-locator/2.5.0-b30/82056cbbd258647bbc6b80debe4e6b7121c61be9/hk2-locator-2.5.0-b30.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/chris/.gradle/caches/modules-2/files-2.1/org.glassfish.hk2/hk2-locator/2.5.0-b30/d5488b01c6d878830c4a396cdbbc09d10ca5c004/hk2-locator-2.5.0-b30-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/chris/.gradle/caches/modules-2/files-2.1/org.glassfish.hk2/osgi-resource-locator/1.0.1/4ed2b2d4738aed5786cfa64cba5a332779c4c708/osgi-resource-locator-1.0.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/chris/.gradle/caches/modules-2/files-2.1/org.glassfish.hk2/osgi-resource-locator/1.0.1/b5685f8eaa7d83351b185a82a92abcd1b8b87fc8/osgi-resource-locator-1.0.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/chris/.gradle/caches/modules-2/files-2.1/javax.el/javax.el-api/3.0.0/60a59edc89f93d57541da31ee1c83428ab1cdcb3/javax.el-api-3.0.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/chris/.gradle/caches/modules-2/files-2.1/javax.el/javax.el-api/3.0.0/47e51cd2f414ff54840b250985c3bce6f6e9d389/javax.el-api-3.0.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/chris/.gradle/caches/modules-2/files-2.1/javax.interceptor/javax.interceptor-api/1.2/a5c058610aebacc1eb89c89e8fde2a978090e374/javax.interceptor-api-1.2.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/chris/.gradle/caches/modules-2/files-2.1/javax.interceptor/javax.interceptor-api/1.2/8f4532cfd20c53e5fb482fa263c29d26c7ff1777/javax.interceptor-api-1.2-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/chris/.gradle/caches/modules-2/files-2.1/org.glassfish.hk2/hk2-utils/2.5.0-b30/b17fc7d8082ac00e59cd96fda9cff21f24cc367c/hk2-utils-2.5.0-b30.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/chris/.gradle/caches/modules-2/files-2.1/org.glassfish.hk2/hk2-utils/2.5.0-b30/63e5edd5bdb6a1a6e6260e032155cc5b976ef6ee/hk2-utils-2.5.0-b30-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/chris/.gradle/caches/modules-2/files-2.1/org.glassfish.hk2.external/aopalliance-repackaged/2.5.0-b30/4e882c90e9ba801803991b4000e6d9ad216ac261/aopalliance-repackaged-2.5.0-b30.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/chris/.gradle/caches/modules-2/files-2.1/org.glassfish.hk2.external/aopalliance-repackaged/2.5.0-b30/419fcbbbb55a03b4e4b8c8889038316ceb247a36/aopalliance-repackaged-2.5.0-b30-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/chris/.gradle/caches/modules-2/files-2.1/org.javassist/javassist/3.20.0-GA/a9cbcdfb7e9f86fbc74d3afae65f2248bfbf82a0/javassist-3.20.0-GA.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/chris/.gradle/caches/modules-2/files-2.1/org.javassist/javassist/3.20.0-GA/d8fdc08a455bc0b28bc0bed1f0d032d935cee8e1/javassist-3.20.0-GA-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
